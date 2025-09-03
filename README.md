@@ -1,6 +1,7 @@
 # Conflict-Based Search (CBS) for Multi-Agent Pathfinding
 
 This project implements **Conflict-Based Search (CBS)** for solving multi-agent pathfinding (MAPF) problems on large directed graphs. 
+
 It was developed as part of my work in the **Parallel and Distributed Computing Lab at Simon Fraser University (SFU)**.  
 
 ### Key Highlights
